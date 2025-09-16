@@ -1,0 +1,4 @@
+# ninja log v5
+0	11657	1745823194591702850	/home/cui/experimeces/2DEstimatorEval-master/model/ops_dcnv3/build/temp.linux-x86_64-cpython-38/home/cui/experimeces/2DEstimatorEval-master/model/ops_dcnv3/src/cpu/dcnv3_cpu.o	4354f21fbe57a657
+1	36785	1745823219711703232	/home/cui/experimeces/2DEstimatorEval-master/model/ops_dcnv3/build/temp.linux-x86_64-cpython-38/home/cui/experimeces/2DEstimatorEval-master/model/ops_dcnv3/src/vision.o	bf0978f51695ea35
+0	81885	1745823264821702612	/home/cui/experimeces/2DEstimatorEval-master/model/ops_dcnv3/build/temp.linux-x86_64-cpython-38/home/cui/experimeces/2DEstimatorEval-master/model/ops_dcnv3/src/cuda/dcnv3_cuda.o	c6ba540f4039f514

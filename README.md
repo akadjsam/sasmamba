@@ -102,7 +102,7 @@ Our code is extended from the following repositories. We thank the authors for r
 
 - [MixSTE](https://github.com/JinluZhang1126/MixSTE)
 - [StridedTransformer-Pose3D](https://github.com/Vegetebird/StridedTransformer-Pose3D)
-- [PoseMamba]([GitHub - nankingjing/PoseMamba](https://github.com/nankingjing/PoseMamba))
+- [PoseMamba](https://github.com/nankingjing/PoseMamba)
 - [MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer)
 
 ## 🔒 Licence

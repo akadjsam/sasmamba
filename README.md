@@ -86,7 +86,7 @@ python train.py --eval-only --checkpoint <CHECKPOINT-DIRECTORY> --checkpoint-fil
 
 ## 👀 Visualization
 
-- Download the yolo weights at : 
+- Download the yolo weights at : https://drive.google.com/drive/folders/19MGI7NikBYUCpDwpwZZ3rtniUIrAS7xB?usp=sharing
 
 - put the weiths in : `demo/lib/checkpoint`
 

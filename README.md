@@ -104,7 +104,6 @@ Our code is extended from the following repositories. We thank the authors for r
 - [StridedTransformer-Pose3D](https://github.com/Vegetebird/StridedTransformer-Pose3D)
 - [PoseMamba](https://github.com/nankingjing/PoseMamba)
 - [MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer)
-- [HGMamba](https://github.com/HuCui2022/HGMamba)
 
 ## 🔒 Licence
 

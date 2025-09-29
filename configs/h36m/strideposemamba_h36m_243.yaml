@@ -32,6 +32,9 @@ lambda_lg: 0.0
 lambda_a: 0.0
 lambda_av: 0.0
 lambda_mi: 0.001
+lambda_3dw: 0.0
+lambda_3d: 1.0
+lambda_diff: 0.5
 
 # Augmentation
 use_proj_as_2d: False   # True for GT

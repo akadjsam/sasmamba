@@ -71,15 +71,6 @@ python train_3dhp.py --config configs/stridemamba_mpi_xx.yaml
 
 ## 🚅 Evaluation
 
-| Dataset      | frames | Checkpoint  |
-| ------------ | ------ | ----------- |
-| Human3.6M    | 243    | coming soon |
-| Human3.6M(L) | 243    | coming soon |
-| MPI-INF-3DHP | 27     | coming soon |
-| MPI-INF-3DHP | 81     | coming soon |
-
-After downloading the weight from table above, you can evaluate Human3.6M models by:
-
 ```
 python train.py --eval-only --checkpoint <CHECKPOINT-DIRECTORY> --checkpoint-file <CHECKPOINT-FILE-NAME> --config <PATH-TO-CONFIG>
 ```

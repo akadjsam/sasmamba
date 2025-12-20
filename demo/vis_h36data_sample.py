@@ -990,15 +990,12 @@ if __name__ == "__main__":
     dataset = 'H36M_243'
     # modelname = 'motionagformer'
     modelname = 'SasPoseMamba'
-    # modelname = 'SasPoseMamba_L'
-    # modelname = 'SasPoseMamba_Latest'
-    # modelname = 'PoseMamba'
-    # modelname = 'PoseMamba_latest'
-    # modelname = 'SasPoseMamba_slatest'
+    
     output_dir = './demo/output/' + modelname +'/'+ dataset + '/'
     viz_36M(output_dir, modelname, sample_idx=60, use_project_as_2d=False, campare=True)
     # get_pose2D_36m(output_dir)
     # get_pose3D_36m(output_dir, modelname)
     # img2video(video_path, output_dir)
     print('Generating demo successful!')
+
 

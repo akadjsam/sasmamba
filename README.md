@@ -96,6 +96,16 @@ Our code is extended from the following repositories. We thank the authors for r
 - [PoseMamba](https://github.com/nankingjing/PoseMamba)
 - [MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer)
 
+## Citation:
+```
+@article{cui2025sasmamba,
+  title={SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation},
+  author={Cui, Hu and Hua, Wenqiang and Huang, Renjing and Jia, Shurui and Hayama, Tessai},
+  journal={arXiv preprint arXiv:2511.08872},
+  year={2025}
+}
+```
+
 ## 🔒 Licence
 
 This project is licensed under the terms of the MIT license.

@@ -1,4 +1,4 @@
-# (SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation)[https://arxiv.org/abs/2511.08872]
+# [SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation](https://arxiv.org/abs/2511.08872)
 
 This is the official PyTorch implementation of our paper:  *SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation*
 

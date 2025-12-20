@@ -650,13 +650,8 @@ if __name__ == "__main__":
     video_path = './demo/video/' + args.video
     video_name = video_path.split('/')[-1].split('.')[0]
     # modelname = 'motionagformer'
-    # modelname = 'motionagformer_shuffle'
-    # modelname = 'motionagformer'
     modelname = 'SasPoseMamba'
-    # modelname = 'SasPoseMamba_L'
-    # modelname = 'SasPoseMamba_Latest'
-    # modelname = 'SasPoseMamba_slatest'
-
+    
     output_dir = './demo/output/' + modelname +'/'+ video_name + '/'
     get_pose2D(video_path, output_dir)
 
@@ -680,4 +675,5 @@ if __name__ == "__main__":
 #     # get_pose3D_36m(output_dir, modelname)
 #     # img2video(video_path, output_dir)
 #     print('Generating demo successful!')
+
 
